@@ -89,7 +89,12 @@ Create external table that references the dirstaging directory of DataLake Gen2 
 In the code snippet above, the data will be stored in the ‘/’ directory in the blob storage in dirstaging (this was configured when creating datasource). You can change the location as you desire. Also, change the DATA_SOURCE value, as applicable to you. Note that, mydls20230413 is the Data Lake Gen 2 storage name, and mydlsfs20230413 is the name of the file system (container).
 
 6. Create master data tables and payroll transaction tables in SQL DB
+   
 ![image](https://github.com/eloisjr/Data_Pipeline_Azure/assets/81710422/175d8636-7d24-4636-8643-5b896b5bc418)
+![image](https://github.com/eloisjr/Data_Pipeline_Azure/assets/81710422/48d1f2f8-e9bd-4369-8d38-d4511efde1ed)
+![image](https://github.com/eloisjr/Data_Pipeline_Azure/assets/81710422/a19385f8-c8bb-4605-b846-601a8f497f47)
+
+
 
 
 
